@@ -40,7 +40,7 @@
 - Intro to Neural Networks
 - Activation functions
 - Program a neuron in MATLAB
-- Layers of Neurons, group theory
+- Layers of Neurons, order out of chaos
 - Program a neural layer in MATLAB
 - Single layer NN & SGD
 - Multi layer NN & gradient falloff
