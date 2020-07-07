@@ -1,8 +1,9 @@
 # IEEE JMI ML Project Series
 
-This is the course repository for the Machine Learning Project Series organized by IEEE JMI for the students of Faculty of Engineering and Technology, Jamia Millia Islamia. If you attended IEEE Code workshops in 2018, this will be partially familiar.
+This is the repository for the Machine Learning Research Group organized by IEEE JMI for the students who want to get 
+into ML with a solid grasp on the core concepts. 
 
-We are inviting you to apply to work with us on a 2-month long series of projects which will take you through practical machine learning faster and easier than any online tutorial. We want to make this a tightly knit group of students working together with guidance from their seniors. You will work on at least 10 different non-trivial projects through the course of this series and all these will lead to one real-world research based project at the end, if this series is successful.
+We are inviting you to apply to work with us on a 2-month long series of projects which will take you through practical machine learning faster and easier than any online tutorial. We want to make this a tightly knit group of students working together with guidance from their seniors. You will work on at least 10 different non-trivial projects through the course of this series and all these will lead to one real-world research based project at the end.
 
 ## Interested to Join? 
 **[Apply HERE](https://forms.gle/TcUD5iUmGieJUUzx5)**
