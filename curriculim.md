@@ -76,22 +76,20 @@
 
 ## Week 8
 **Aug 29th to Sep 4th**
-- Recurrent networks
+- Recurrent Neural networks
+- Language models with RNNs
+- Predictions with RNNs
 
 ## Week 9
 **Sep 5th to Sep 11th**
-- Convolutional networks
+- Convolutional Neural networks
+- Image processing with CNNs
+- Image classification with CNNs
+- Dimensionality reduction
+- CNNs over RNNs, When to use?
 
 ## Week 10
 **Sep 12th to Sep 18th**
 - Adversarial networks
 - Generative Adversarial Networks
 - Transformers (GPT)
-
-## Week 11
-**Sep 19th to Sep 25th**
-- Reading material sent to people
-
-## Week 12
-**Sep 26th to Oct 2nd**
-- Reading material sent to people
